@@ -7,13 +7,20 @@
 	<description>An hour of top dance music tunes selected by The Amazing Jondi &amp; Spesh of Lo&#246;q Records, including the latest releases on Lo&#246;q (www.looq.com).</description>
 	<language>en-us</language>
 	<copyright>Copyright &#169; 2013, Lo&#246;q Records</copyright>
-	<lastBuildDate>Fri, 08 Nov 2013 12:00:00 GMT</lastBuildDate>
+	<lastBuildDate>Fri, 13 Dec 2013 12:00:00 GMT</lastBuildDate>
 	<webMaster>mail@jondiandspesh.com</webMaster>
 	<ttl>1</ttl>
 	<itunes:author>The Amazing Jondi &amp; Spesh</itunes:author>
 	<itunes:subtitle>The Amazing Jondi &amp; Spesh Present Lo&#246;q Radio</itunes:subtitle>
 	<itunes:image href="http://looq.com/looq_radio/LooqRadio.jpg" />
 	<itunes:category text="Music"/>
+
+    <item>
+        <title>Lo&#246;q Radio - Dec 13, 2013</title>
+        <description>The Amazing Jondi &amp; Spesh and other Lo&#246;q Records artists and guests present a monthly mix of the Lo&#246;q sound.</description>
+        <pubDate>Fri, 13 Dec 2013 18:00:00 GMT</pubDate>
+        <enclosure url="http://www.looq.com/looq_radio/JS_Looq_radio_Dec13.mp3" length="86402663" type="audio/mpeg" />
+    </item>
 
     <item>
         <title>Lo&#246;q Radio - Nov 08, 2013</title>
