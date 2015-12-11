@@ -7,7 +7,7 @@
     <description>An hour of top dance music tunes selected by The Amazing Jondi &amp; Spesh of Lo&#246;q Records, including the latest releases on Lo&#246;q (www.looq.com).</description>
     <language>en-us</language>
     <copyright>Copyright &#169; 2015, Lo&#246;q Records</copyright>
-    <lastBuildDate>Fri, 06 Nov 2015 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2015 12:00:00 GMT</lastBuildDate>
     <webMaster>mail@jondiandspesh.com</webMaster>
     <ttl>1</ttl>
     <itunes:author>The Amazing Jondi &amp; Spesh</itunes:author>
@@ -16,9 +16,16 @@
     <itunes:category text="Music" />
 
     <item>
+      <title>Lo&#246;q Radio - Dec 11, 2015</title>
+      <description>The Amazing Jondi &amp; Spesh and other Lo&#246;q Records artists and guests present a monthly mix of the Lo&#246;q sound.</description>
+      <pubDate>Fri, 11 Dec 2015 18:00:00 GMT</pubDate>
+      <enclosure url="http://www.looq.com/looq_radio/JS_Looq_radio_Dec15.mp3" length="86402663" type="audio/mpeg" />
+    </item>
+
+    <item>
       <title>Lo&#246;q Radio - Nov 06, 2015</title>
       <description>The Amazing Jondi &amp; Spesh and other Lo&#246;q Records artists and guests present a monthly mix of the Lo&#246;q sound.</description>
-      <pubDate>Nov, 06 Oct 2015 18:00:00 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2015 18:00:00 GMT</pubDate>
       <enclosure url="http://www.looq.com/looq_radio/JS_Looq_radio_Nov15.mp3" length="86402663" type="audio/mpeg" />
     </item>
 
