@@ -7,13 +7,20 @@
     <description>An hour of top dance music tunes selected by The Amazing Jondi &amp; Spesh of Lo&#246;q Records, including the latest releases on Lo&#246;q (www.looq.com).</description>
     <language>en-us</language>
     <copyright>Copyright &#169; 2016, Lo&#246;q Records</copyright>
-    <lastBuildDate>Fri, 18 Mar 2016 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 May 2016 12:00:00 GMT</lastBuildDate>
     <webMaster>mail@jondiandspesh.com</webMaster>
     <ttl>1</ttl>
     <itunes:author>The Amazing Jondi &amp; Spesh</itunes:author>
     <itunes:subtitle>The Amazing Jondi &amp; Spesh Present Lo&#246;q Radio</itunes:subtitle>
     <itunes:image href="http://looq.com/looq_radio/LooqRadio.jpg" />
     <itunes:category text="Music" />
+
+    <item>
+      <title>Lo&#246;q Radio - May 13, 2016</title>
+      <description>The Amazing Jondi &amp; Spesh and other Lo&#246;q Records artists and guests present a monthly mix of the Lo&#246;q sound.</description>
+      <pubDate>Fri, 13 May 2016 18:00:00 GMT</pubDate>
+      <enclosure url="http://www.looq.com/looq_radio/JS_Looq_radio_May16.mp3" length="86402663" type="audio/mpeg" />
+    </item>
 
     <item>
       <title>Lo&#246;q Radio - Mar 18, 2016</title>
